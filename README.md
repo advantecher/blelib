@@ -19,7 +19,7 @@ allprojects {
 [Tag] must be replaced as the specific version, such as [1.1.0].
 ```java
 dependencies {
-    implementation 'com.github.fabian415:bleeplib:Tag'
+    implementation 'com.github.advantecher:blelib:Tag'
 }
 ```
 
@@ -38,18 +38,20 @@ dependencies {
 [Tag] must be replaced as the specific version, such as [1.1.0].
 ```xml
 <dependency>
-    <groupId>com.github.fabian415</groupId>
-    <artifactId>bleeplib</artifactId>
+    <groupId>com.github.advantecher</groupId>
+    <artifactId>blelib</artifactId>
     <version>Tag</version>
 </dependency>
 ```
 
 ### JavaDoc
-https://fabian415.github.io/bleeplib/
+https://advantecher.github.io/blelib/
 
 ### Source Code
 You can download this project for basic usage
-https://github.com/fabian415/bleeplib.git
+```cmd
+https://github.com/advantecher/blelib.git
+```
 
 ### Basic Usage 
 **IDE tool:** Android Studio
